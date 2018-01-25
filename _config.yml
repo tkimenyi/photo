@@ -11,7 +11,7 @@ image_thumbs_loc: "/images/thumbs"
 title: "Photography by Thierry Kimenyi"
 subtitle: "The places I am traveling to and The stories I am being told"
 author: "Thierry Kimenyi"
-bio: ""I am a software engineer originally from Rwanda, now living in the US. I created this space to share my work as an engineer, my photography, and to improve my writing."
+bio: "I am a software engineer originally from Rwanda, now living in the US. I created this space to share my work as an engineer, my photography, and to improve my writing."
 publicise: "<a href=\"https://github.com/tkimenyi/photo\">fork me on github</a>"
 social_urls:
   instagram: "https://www.instagram.com/thielypics"
